@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AnasK-codes
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning c++ and js.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Anas Khan 👋  
+
+🎓 IT student at **Shri G.S. Institute of Technology and Science**  
+💻 Learning C++ (DSA)
+🌱 Skilled in **Full-Stack Development (HTML, CSS, JS, Backend)**  
+⚽ Fun fact: I’m also a **football player**  
+
+
+⭐️ *Always exploring, always building!* 🚀
+
 
 <!---
 AnasK-codes/AnasK-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
